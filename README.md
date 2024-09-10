@@ -1,5 +1,4 @@
 # CodeAlpha_FibonacciGenerator
-**Fibonacci series**
 The Fibonacci series, named after the Italian mathematician Leonardo of Pisa (known as Fibonacci), is a sequence of numbers where each number is the sum of the two preceding ones. The sequence often starts with 0 and 1
 Mathematical Formula
 𝐹(0)=0
